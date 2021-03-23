@@ -4,7 +4,7 @@
 This is a simple 2D side-scroll game. The Santa runs from left to right and has to avoid some obstacles by jumping over them. The game ends when the Santa hits an obstacle. The goal is to avoid as many obstacles as possible.
 
 # Development platform:
-Windows 10, Unity version 2020.1.15f1, Visual Studio Community 2017, Scripting Runtime Version: .NET 4.0
+Windows 10, Unity version 2020.1.5f1, Visual Studio Community 2017, Scripting Runtime Version: .NET 4.0
 
 # Target platform:
 WebGl and Standalone, RefRes: 1920 * 1080
