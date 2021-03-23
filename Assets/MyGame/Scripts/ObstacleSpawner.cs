@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ObstacleSpawner : MonoBehaviour
@@ -27,11 +26,7 @@ public class ObstacleSpawner : MonoBehaviour
         StartCoroutine("Spawn");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  
 
     IEnumerator Spawn()
     {
